@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caroline Bernardo Silva</h1>
 <h3 align="center">I'm a data scientist and ML Enginner.</h3>
 
-- 🔭 I’m currently working on **Cloudhumans with NLP and ML**
+
 
 - 🌱 I’m currently learning **FastAPI and Computational Linguistics ✨**
 
