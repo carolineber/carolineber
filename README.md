@@ -3,11 +3,10 @@
 
 
 
-- 🌱 I’m currently learning **Computational Linguistics ✨**
 
 - 📫 How to reach me **linkedin.com/in/caroline-bernardo-silva-5b563b146/**
 
-- 📄 Know about my experiences **I'm a doctoral student in knowledge engineering(UFSC) and currently working at Groupo Boticário with ML**
+- 📄 Know about my experiences **I'm a doctoral student in knowledge engineering(UFSC) and currently working at Groupo Boticário with generated AI and classic models**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
